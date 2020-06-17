@@ -1,7 +1,6 @@
 <h2 align="center">
     <img src="launchbase.png">
     <br>
-    <b> Módulo 1</b> 
     </br>
 </h2>
 
@@ -10,13 +9,13 @@
 ## 📋 Índice
 
 - [Sobre](#sobre)
-- [Desafios módulo  1](#desafio)
+- [Desafios Módulo 1](#desafio)
 
 ---
 <a id="sobre"></a>
 ## 🔖 Sobre
 
-Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</strong>, foi feito alguns desafios para praticar os conhecimentos do módulo.
+Esse projeto faz parte das atividades do <strong>Bootcamp LaunchBase</strong>. Foram feitos alguns desafios para praticar os conhecimentos estudados em cada módulo.
 
 ---
 <h2 aling="center">      
@@ -24,9 +23,9 @@ Esse projeto faz parte das atividades do curso <strong>Bootcamp LaunchBase</stro
 </h2> 
 
 <a id="desafio"></a>
-## 🚀 Desafios módulo 1
+## 🚀 Desafios Módulo 1
 
-O módulo apresentou 4 desafios:
+O módulo apresentou 4 desafios baseados nos tópicos:
 
 - Primeiros passos com JavaScript.
 - Lidando com objetos e vetores. 
