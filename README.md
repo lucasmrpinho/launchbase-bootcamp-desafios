@@ -23,7 +23,7 @@ Esse projeto faz parte das atividades do <strong>Bootcamp LaunchBase</strong>. F
 </h2> 
 
 <a id="desafio"></a>
-## 🚀 Desafios Módulo 1
+## 🚀 Desafios Módulo-1
 
 O módulo apresentou 4 desafios baseados nos tópicos:
 
