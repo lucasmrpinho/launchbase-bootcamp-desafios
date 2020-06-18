@@ -4,8 +4,6 @@
     </br>
 </h2>
 
----
-
 ## 📋 Índice
 
 - [Sobre](#sobre)
