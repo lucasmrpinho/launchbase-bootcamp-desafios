@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img src="launchbase.png">
+    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
     <br>
     </br>
 </h2>
@@ -15,7 +15,7 @@
 <a id="sobre"></a>
 ## 🔖 Sobre
 
-Esse projeto faz parte das atividades do <strong>Bootcamp LaunchBase</strong>. Foram feitos alguns desafios para praticar os conhecimentos estudados em cada módulo.
+Esse repositório faz parte das atividades do <strong>Bootcamp LaunchBase</strong>. Foram feitos alguns desafios para praticar os conhecimentos estudados em cada módulo.
 
 ---
 <h2 aling="center">      
