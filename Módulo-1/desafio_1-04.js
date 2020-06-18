@@ -17,8 +17,7 @@ function createTransaction(transaction){
 }
 
 
-// Relatórios - Desafio 1-4.2 :
-
+// Relatórios :
 console.log('Desafio 1-4.2 :')
 
 function getHigherTransactionByType(type){

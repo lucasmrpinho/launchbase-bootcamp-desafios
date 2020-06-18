@@ -1,5 +1,5 @@
 // Cálculo do IMC
-console.log('Desafio 1-2.1 :')
+console.log('Desafio 1-1.1 :')
 
 const nome = 'Lucas'
 const idade = '19'
@@ -20,7 +20,7 @@ if (imc >= 30){
 console.log(message)
 
 // Cálculo de aposentadoria
-console.log('Desafio 1-2.2 :')
+console.log('Desafio 1-1.2 :')
 
 const nome2 = 'João'
 const idade2 = 50

@@ -1,5 +1,6 @@
 // Contrução e impressão de objetos
-console.log('Desafio 1-1.1 :')
+console.log('Desafio 1-2.1 :')
+
 const empresa = {
     nome: "Rocketseat",
     cor: "Roxo",
@@ -15,7 +16,7 @@ const message = `A empresa ${empresa.nome} está localizada em ${empresa.enderec
 console.log(message)
 
 // Vetores e objetos
-console.log('Desafio 1-1.2 :')
+console.log('Desafio 1-2.2 :')
 
 const dev = {
     nome: 'Lucas',
