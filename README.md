@@ -15,7 +15,7 @@
 <a id="sobre"></a>
 ## 🔖 Sobre
 
-Esse repositório faz parte das atividades do <strong>Bootcamp LaunchBase</strong>. Foram feitos alguns desafios para praticar os conhecimentos estudados em cada módulo.
+Esse repositório foi criado para os desafios propostos durante o **Bootcamp LaunchBase** no **Módulo 1**. Eles foram resolvidos para por em prática os conhecimentos estudados em cada módulo.
 
 ---
 <h2 aling="center">      
@@ -23,23 +23,23 @@ Esse repositório faz parte das atividades do <strong>Bootcamp LaunchBase</stron
 </h2> 
 
 <a id="desafio"></a>
-## 🚀 Desafios Módulo-1
+## 🚀 [Desafios Módulo-1](https://github.com/lucasmrpinho/launchbase-bootcamp-desafios-modulo1/tree/master/M%C3%B3dulo-1)
 
 O módulo 1 apresentou 4 desafios baseados nos tópicos vistos nas aulas:
 
-- Primeiros passos com JavaScript:
-    >Cálculo do IMC (Desafio 1-1.1),
-    >Cálculo de aposentadoria (Desafio 1-1.2).
-- Lidando com objetos e vetores:
-    >Contrução e impressão de objetos (Desafio 1-2.1),
-    >Vetores e objetos (Desafio 1-2.2).
-- Funções e estruturas de repetição:
-    >Usuários e tecnologias (Desafio 1-3.1),
-    >Busca por tecnologia (Desafio 1-3.2),
-    >Soma de despesas e receitas (Desafio 1-3.2).
-- Aplicação: Operações bancárias. 
-    >Adicionar transações (Desafio 1-4.1),
-    >Relatórios (Desafio 1-4.2).
+- **Primeiros passos com JavaScript:**
+> - Cálculo do IMC (Desafio 1-1.1)
+> - Cálculo de aposentadoria (Desafio 1-1.2)
+- **Lidando com objetos e vetores:**
+> - Contrução e impressão de objetos (Desafio 1-2.1)
+> - Vetores e objetos (Desafio 1-2.2)
+- **Funções e estruturas de repetição:**
+> - Usuários e tecnologias (Desafio 1-3.1)
+> - Busca por tecnologia (Desafio 1-3.2)
+> - Soma de despesas e receitas (Desafio 1-3.2)
+- **Aplicação: Operações bancárias:** 
+> - Adicionar transações (Desafio 1-4.1)
+> - Relatórios (Desafio 1-4.2)
 
 
 ---
