@@ -28,8 +28,8 @@ Esse repositório faz parte das atividades do <strong>Bootcamp LaunchBase</stron
 O módulo 1 apresentou 4 desafios baseados nos tópicos vistos nas aulas:
 
 - Primeiros passos com JavaScript:
-    -Cálculo do IMC (Desafio 1-1.1);
-    -Cálculo de aposentadoria (Desafio 1-1.2).
+    >Cálculo do IMC (Desafio 1-1.1);
+    >Cálculo de aposentadoria (Desafio 1-1.2).
 - Lidando com objetos e vetores:
     -Contrução e impressão de objetos (Desafio 1-2.1);
     -Vetores e objetos (Desafio 1-2.2).
